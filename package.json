@@ -21,6 +21,7 @@
     "tiny-queue": "0.2.0"
   },
   "devDependencies": {
+    "@react-native-async-storage/async-storage": "~1.17.3",
     "asyncstorage-mock-another": "^1.0.1",
     "eslint": "^5.9.0",
     "husky": "^1.1.3",
